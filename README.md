@@ -1,7 +1,6 @@
 # Netflix_Dashboard
 
-This is Simple Dashboard of netflix using Tableau.<br/>
-- 1600x900<br>
+![Netflix Dashboard](https://github.com/sourabhs701/Netflix_Dashboard/blob/main/Netflix_Dash.jpg)
 
 # Worksheets:
 - Total Movies & TVshows by Year <br/>
